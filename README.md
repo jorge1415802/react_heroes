@@ -1,3 +1,6 @@
+# Heroes app
+This app is an application that allows to filter heroes and villains and use cache with tanstack query. It is built with React, TypeScript, Vite, and Tailwind CSS.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +70,14 @@ export default tseslint.config([
   },
 ])
 ```
+```
+#How to use
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
+4. Open http://localhost:5173 in your browser
+
+#Authors
+
+- [Jorge Luis Rodriguez](https://github.com/jorge1415802)
