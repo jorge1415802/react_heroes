@@ -70,14 +70,12 @@ export default tseslint.config([
   },
 ])
 ```
-```
-#How to use
+## How to use
 
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm run dev`
 4. Open http://localhost:5173 in your browser
 
-#Authors
-
+## Author
 - [Jorge Luis Rodriguez](https://github.com/jorge1415802)
